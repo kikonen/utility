@@ -1,6 +1,6 @@
 # Profiler
 
-TODO: Write a gem description
+Testing
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+testin
 
 ## Contributing
 

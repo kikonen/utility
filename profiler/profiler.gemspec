@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Profiler::VERSION
   spec.authors       = ["kari"]
   spec.email         = ["mr.kari.ikonen@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{profiler test}
+  spec.summary       = %q{profiler test summaryx}
   spec.homepage      = ""
   spec.license       = "MIT"
 
